@@ -1,0 +1,30 @@
+
+img {
+    width: 40px;
+    height: 40px;
+    float: left;
+  }
+  
+  .backgroudLightGrey{
+      background-color: #e6e6e6 !important;
+  }
+
+  .green{
+      color: rgb(47, 255, 20) !important;
+  }
+
+  .red{
+    color: rgb(255, 0, 0) !important;
+}
+
+.grey{
+    color: #ababab !important;
+}
+
+
+h1{
+    color: #091c3e;
+    font-weight: bold;
+}
+
+  
